@@ -40,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -188,9 +188,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "54d1814092993674",
+  "active": "e8f18fe490bc8b6a",
   "lastOpenFiles": [
+    "README.md",
     "Project Home.md",
+    "08 Archive",
+    "07 Reference",
+    "06 Business, Ethics, and IP",
+    "05 Materials and Manufacturing",
+    "04 Engineering and Validation",
+    "03 Guitar Design",
+    "02 Requirements and Decisions",
+    "01 Project Management",
+    "00 Inbox",
     "# Project Fronkenschteen.md"
   ]
 }
