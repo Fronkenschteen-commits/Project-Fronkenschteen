@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Home.md",
+                "file": "Project Home - Baseline Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Home"
+              "title": "Project Home - Baseline Index"
             }
           }
         ]
@@ -188,10 +188,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8f18fe490bc8b6a",
+  "active": "54d1814092993674",
   "lastOpenFiles": [
-    "README.md",
     "Project Home.md",
+    "04 Engineering and Validation/PF-VAL-001 Validation Plan.md",
+    "03 Guitar Design/PF-DSN-001 Design Brief.md",
+    "07 Reference/PF-TPL-003 Simulation Study Template.md",
+    "07 Reference/PF-TPL-002 Design Review Template.md",
+    "07 Reference/PF-TPL-001 Engineering Notebook Template.md",
+    "07 Reference/PF-REG-RES Research Register.md",
+    "07 Reference/PF-LEX-001 Controlled Vocabulary.md",
+    "07 Reference/PF-FILE-001 File Location Register.md",
+    "06 Business, Ethics, and IP/PF-IP-001 Intellectual Property Notes.md",
+    "06 Business, Ethics, and IP/PF-ETH-001 Ethical Development Standard.md",
+    "05 Materials and Manufacturing/PF-MFG-001 Materials and Manufacturing Brief.md",
+    "02 Requirements and Decisions/PF-REG-REQ Requirements Register.md",
+    "02 Requirements and Decisions/PF-REG-ASM Assumptions and Beliefs Register.md",
+    "02 Requirements and Decisions/PF-LOG-DEC Decision Log.md",
+    "01 Project Management/PF-STD-001 Document Control Standard.md",
+    "01 Project Management/PF-REG-DOC Document Register.md",
+    "01 Project Management/PF-PLN-001 Development Plan.md",
+    "01 Project Management/PF-LOG-RSK Risk Register.md",
+    "01 Project Management/PF-LOG-CHG Change Log.md",
+    "01 Project Management/PF-LOG-ACT Action Register.md",
+    "01 Project Management/PF-CON-001 Project Constitution.md",
+    "01 Project Management/PF-CHR-001 Project Charter.md",
+    "Project Home - Baseline Index.md",
+    "IMPORT-INSTRUCTIONS.md",
+    "README.md",
     "08 Archive",
     "07 Reference",
     "06 Business, Ethics, and IP",
@@ -200,7 +224,6 @@
     "03 Guitar Design",
     "02 Requirements and Decisions",
     "01 Project Management",
-    "00 Inbox",
-    "# Project Fronkenschteen.md"
+    "00 Inbox"
   ]
 }
